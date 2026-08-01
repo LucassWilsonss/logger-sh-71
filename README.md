@@ -1,2 +1,4 @@
-# logger-sh-71
+# Logger Sh 71
+
 Compress logging directories into backups in Bash.
+
